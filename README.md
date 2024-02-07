@@ -8,11 +8,11 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Corinthiano roxo 🦅
 
-<div style="display: flex;">
-    <img id="image-footer" src="./images/Angular.svg" style="width: 46px; height: auto;" alt="">
-    <img id="image-footer" src="./images/CSS.svg" alt="" style="width: 46px; height: auto;">
-    <img id="image-footer" src="./images/HTML.svg" alt="" style="width: 46px; height: auto;">
-    <img id="image-footer" src="./images/React Native.svg" alt="" style="width: 46px; height: auto;">
-    <img id="image-footer" src="./images/React.svg" alt="" style="width: 46px; height: auto;">
-    <img id="image-footer" src="./images/Typescript.svg" alt="" style="width: 46px; height: auto;">
+<div style="display: flex; margin-top: 16px;">
+    <img id="image-footer" src="./images/Angular.svg" style="width: 46px; height: auto; margin-right: 8px;" alt="">
+    <img id="image-footer" src="./images/CSS.svg" alt="" style="width: 46px; height: auto; margin-right: 8px;">
+    <img id="image-footer" src="./images/HTML.svg" alt="" style="width: 46px; height: auto; margin-right: 8px;">
+    <img id="image-footer" src="./images/React Native.svg" alt="" style="width: 46px; height: auto; margin-right: 8px;">
+    <img id="image-footer" src="./images/React.svg" alt="" style="width: 46px; height: auto; margin-right: 8px;">
+    <img id="image-footer" src="./images/Typescript.svg" alt="" style="width: 46px; height: auto; margin-right: 8px;">
 </div>
