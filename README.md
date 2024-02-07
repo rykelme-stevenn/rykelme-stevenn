@@ -8,6 +8,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Corinthiano roxo 🦅
 
+<h2>Experiência nessas Tecnologias:</h2>
 <div style="display: flex; margin-top: 16px;">
     <img id="image-footer" src="./images/Angular.svg" style="width: 46px; height: auto; padding: 8px !important;" alt="">
     <!-- <p>  </p> -->
