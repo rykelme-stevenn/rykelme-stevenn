@@ -1,8 +1,8 @@
 ### Olá, eu sou o Rykelme 👋
 
-- 👨🏻‍💻 Estou atualmente trabalhando com desenvolvimento Mobile na Linx
+- 👨🏻‍💻 Estou atualmente trabalhando como Engenheiro de Software na TCS
 - 📚 Bacharel em Sistemas de Informação pela UNIVEM
-- 📚 Pós-graduando em Inteligência Artificial pela UTFPR
+- 📚 Pós-graduado em Inteligência Artificial pela UTFPR
 - 🧾Meu portfolio: https://rykelme-stevenn.github.io/my-portfolio/
 - 💬 Converse comigo sobre tecnologia/desenvolvimento
 - 📫 How to reach me: https://www.linkedin.com/in/rykelme-prado/
